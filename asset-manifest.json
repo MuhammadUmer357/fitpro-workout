@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/fitpro-workout/static/css/main.4cfe349f.css",
-    "main.js": "/fitpro-workout/static/js/main.5a8c4124.js",
-    "static/js/453.e456f215.chunk.js": "/fitpro-workout/static/js/453.e456f215.chunk.js",
+    "main.css": "/fitpro-workout/static/css/main.5a5fc145.css",
+    "main.js": "/fitpro-workout/static/js/main.28479edc.js",
     "index.html": "/fitpro-workout/index.html",
-    "main.4cfe349f.css.map": "/fitpro-workout/static/css/main.4cfe349f.css.map",
-    "main.5a8c4124.js.map": "/fitpro-workout/static/js/main.5a8c4124.js.map",
-    "453.e456f215.chunk.js.map": "/fitpro-workout/static/js/453.e456f215.chunk.js.map"
+    "main.5a5fc145.css.map": "/fitpro-workout/static/css/main.5a5fc145.css.map",
+    "main.28479edc.js.map": "/fitpro-workout/static/js/main.28479edc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cfe349f.css",
-    "static/js/main.5a8c4124.js"
+    "static/css/main.5a5fc145.css",
+    "static/js/main.28479edc.js"
   ]
 }
